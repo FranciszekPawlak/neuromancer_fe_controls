@@ -1,0 +1,19 @@
+{
+  "name": "@neuromancer/controls",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Neuromancer system React components library with support for React Server Components",
+  "main": "index.ts",
+  "scripts": {
+    "build": "rollup --config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franciszek Pawlak",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.1.6",
+    "rollup": "^4.11.0",
+    "tslib": "^2.6.2",
+    "typescript": "^5.3.3"
+  }
+}
